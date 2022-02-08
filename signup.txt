@@ -1,2 +1,3 @@
+<html>
 Dang ky thanh vien
-
+</html>
